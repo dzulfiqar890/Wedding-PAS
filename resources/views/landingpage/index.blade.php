@@ -387,7 +387,7 @@
     }
 
     function playAudio() {
-      song.volume = 0.9;
+      song.volume = 0.4;
       audioIconWrapper.style.display = 'flex';
       song.play();
       isPlaying = true;
